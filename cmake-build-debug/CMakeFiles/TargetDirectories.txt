@@ -1,0 +1,3 @@
+C:/Users/theal/Desktop/ITMO/oper_sys/deduplicate/cmake-build-debug/CMakeFiles/deduplicate.dir
+C:/Users/theal/Desktop/ITMO/oper_sys/deduplicate/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/theal/Desktop/ITMO/oper_sys/deduplicate/cmake-build-debug/CMakeFiles/rebuild_cache.dir
